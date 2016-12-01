@@ -8,6 +8,7 @@
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/mstg/undo-github/master/undo.js
 // @updateURL    https://raw.githubusercontent.com/mstg/undo-github/master/undo.js
+// @require      https://code.jquery.com/jquery.min.js
 // ==/UserScript==
 
 $(document).ready(function(){
